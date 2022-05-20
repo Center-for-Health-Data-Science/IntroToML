@@ -1,9 +1,13 @@
 # Introduction to machine learning in biomedical research - Part A
+**May 23-31, 2022**
+
 Official course description:
 https://phdcourses.ku.dk/DetailKursus.aspx?id=109397&sitepath=SUND
 
+### Location
+PANUM, Blegdamsvej 3B, 2200 Copenhagen, **Maersk Tower, Floor 15, room 7.15.152** (Faculty club)
 
-### Course plan May-June 2022 (DRAFT!)
+## Course plan
 
 ### Monday May 23
 Main teacher: Shyam Gopalakrishnan <fck245@ku.dk>
