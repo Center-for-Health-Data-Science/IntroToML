@@ -42,11 +42,26 @@ Main Teacher: Ole Winther <ole.winther@bio.ku.dk> (morning) Anders (afternoon)
 
 | Time |  |
 |---|---|
-|9-10| Please fill in |
-|10-11| Please fill in |
-|11-12| Please fill in |
+|9-10| Generative Neural Networks |
+|10-12| Exercise on Generative Neural Networks |
 |12-13| Lunch break |
 |13-14| Start project work |
-|14-15| Talk by Mani |
+|14-15| Talk by Mani Arumugam |
 |15-16| Continue project|
 
+### Monday, May 30
+Main Teacher: Anders
+
+| Time |  |
+|---|---|
+|9-12| Continue project work |
+|12-13| Lunch break |
+|13-15| Project presentations |
+|15-16| Reflections, Discussion, Questions, Evaluation|
+
+### Tuesday, May 31
+Responsible: Ruth Loos <ruth.loos@sund.ku.dk> & Cameron MacPherson <cameron.macpherson@regionh.dk>
+
+Talks: Example of machine learning applications in the biomedical field & intro to hackathon
+
+See separate program
