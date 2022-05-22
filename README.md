@@ -36,7 +36,7 @@ Main teacher: Anders Krogh <anders.krogh@sund.ku.dk>
 |11-12| Lecture: Issues in training. SGD, Adam. mixed with hands-on. [Day2/NNintro2.pdf](Day2/NNintro2.pdf) |
 |12-13| Lunch break |
 |13-14| Exercise with gene expression data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/day2_2_TissueClassification.ipynb)|
-|14-15| Lecture: Neural networks for sequences (one-hot encoding, convolution). Performance evaluation (ROC curve)|
+|14-15| Lecture: Neural networks for sequences (one-hot encoding, convolution). Performance evaluation (ROC curve). [Day2/NNintro3.pdf](Day2/NNintro3.pdf)|
 |15-16| Exercise on prediction of TSS in DNA sequences [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/TSSprediction.ipynb) |
 
 ### Wednesday, May 25
