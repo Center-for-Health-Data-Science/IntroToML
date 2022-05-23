@@ -31,7 +31,7 @@ Main teacher: Anders Krogh <anders.krogh@sund.ku.dk>
 | Time |  |
 |---|---|
 | 9-10| Lecture: What is a NN? Feed-forward NN. Backpropagation. [Day2/NNintro1.pdf](Day2/NNintro1.pdf). Notebook for [gradient descent ](Day2/CoronaData.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/CoronaData.ipynb) |
-|10-11| Exercise: Introduction to Pytorch. Make your first NN |
+|10-11| Exercise: Introduction to Pytorch. Make your first NN  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/pytorch_intro.ipynb) |
 |11-12| Lecture: Issues in training. SGD, Adam. mixed with hands-on. [Day2/NNintro2.pdf](Day2/NNintro2.pdf) |
 |12-13| Lunch break |
 |13-14| Exercise with gene expression data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/day2_2_TissueClassification.ipynb)|
