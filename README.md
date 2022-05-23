@@ -49,7 +49,7 @@ Main Teacher: Ole Winther <ole.winther@bio.ku.dk> (morning) Anders (afternoon)
 |10-12| Exercise on Generative Neural Networks |
 |12-13| Lunch break |
 |13-14| Start project work |
-|14-15| Talk by **Mani Arumugam**: How do different nutrient compositions affect ex vivo gut microbiomes? (data set for use in the Hackathon) |
+|14-15| Talk by **Mani Arumugam**: Gut microbiome signatures of Colorectal Cancer. (Data set for use in the Hackathon) |
 |15-16| Continue project|
 
 ### Monday, May 30
