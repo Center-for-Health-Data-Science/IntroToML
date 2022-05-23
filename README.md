@@ -22,7 +22,6 @@ Main teacher: Shyam Gopalakrishnan <fck245@ku.dk>
 |12-13| Lunch break |
 |13-14| Supervised learning: classification and regression |
 |14-15| Logistic regression exercises |
-|15-16| Random forest intro and exercises |
 
 ### Tuesday May 23
 Main teacher: Anders Krogh <anders.krogh@sund.ku.dk>
