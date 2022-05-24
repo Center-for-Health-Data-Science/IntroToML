@@ -27,7 +27,7 @@ In this project you will be working with 4-mers. As there are $4^4 = 256$ differ
 There is no single comprehensive reason for this, although various factors such as DNA denaturation temperature, codon bias, common functional motifs, restriction endonucleases and others are thought to play a role.
 
 Since numerical vectors are the bread and butter of machine learning,
-the implication of this is that we can effetively represent and analyze long DNA sequences using their kmer frequencies.
+the implication of this is that we can effectively represent and analyze long DNA sequences using their kmer frequencies.
 
 ## Task:
 The file `data/kmers1.json` contains the 4-mer frequencies (TNF) from a sequences of microorganisms.
