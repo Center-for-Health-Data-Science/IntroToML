@@ -10,18 +10,20 @@ The notebook is in support of a presentation, not the replacement (so I do not w
 - Torch seen as numpy: `Ndarray` -> `Tensor`
 	- Why: Tensor itself has backprop information
 - Key Concepts and associated Classes: 
-    - brief recap of python concepts needed: `tuple`, `[ ]` implementation, `len`
+    - brief recap of python concepts needed: `tuple`, `[ ]` implementation, `len`, `Callable`
     - `DataSet` -> `__getitem__`, `__len__`
     - `DataLoader` -> Loop over `Dataset` in certain ways
-    - Model formulation -> `Module`
+    - Model formulation -> `Module` as a `Callable`
     - Optimizers -> `SGD`
-    - loss functions 
+    - loss functions
 
 - plan:
-    * Start by makig dataloaders for validaiton + training. Simple exercise
-    * Define a simple linear regression, then a feed-forward network
+    * Start by makig a Dataset and one DataLoader. 
+    * hint on `DataLoader`s for validaiton + training. 
+    * Define a simple linear regression
     * Do one step with `Dataloder` + model and see what comes out
-    * Do it a loop
+    * Do it in a loop
+    * Define a feed-forward network as an exercise
 
 - options: How to formulate a Logistic Regression?
 
@@ -29,8 +31,9 @@ The notebook is in support of a presentation, not the replacement (so I do not w
 ### Further material
 The Colab I found before: Primer on NNs, (or this one?), cheat-cheets (and as a notebook)
 
-- pytorch.org Cheat Sheet on tensor, or examples from some blog (lost source) in [tensor_cheatsheet.ipynb](tensor_cheatsheet.ipynb)
+- Textbook: [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 
+- [pytorch.org Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html), or examples from some blog (lost source) in [tensor_cheatsheet.ipynb](tensor_cheatsheet.ipynb)
 
 - notebook on [classes](https://github.com/Center-for-Health-Data-Science/PythonTsunami/tree/fall2021/Classes)
 
