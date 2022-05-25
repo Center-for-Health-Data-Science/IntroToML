@@ -1,5 +1,5 @@
 
-* Prediction of transcription start sites
+# Prediction of transcription start sites
 
 Use the data set and some of the code from the notebook TSSprediction.ipynb from day 2 of the course.
 
