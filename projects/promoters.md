@@ -5,6 +5,7 @@ Use the data set and some of the code from the notebook TSSprediction.ipynb from
 
 Try to make a better neural network by varying the architecture. For instance
 * Vary the input window size
+* Use more negative examples (e.g. 2-5 per positive)
 * Use one more convolution layer
 * Use more hidden layers and vary their sizes
 * Use softplus activation instead of ReLU
