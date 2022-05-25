@@ -5,7 +5,7 @@ Official course description:
 https://phdcourses.ku.dk/DetailKursus.aspx?id=109397&sitepath=SUND
 
 ### Location
-PANUM, Blegdamsvej 3B, 2200 Copenhagen, **Maersk Tower, Floor 15, room 7.15.152** (Faculty club)
+PANUM, Blegdamsvej 3B, 2200 Copenhagen, **Maersk Tower, Floor 15, room 7.15.152**
 
 ## Course plan
 
@@ -48,7 +48,7 @@ Main Teacher: Ole Winther <ole.winther@bio.ku.dk> (morning) Anders (afternoon)
 |9-10| Generative Neural Networks |
 |10-12| Exercise on Generative Neural Networks |
 |12-13| Lunch break |
-|13-14| Start project work |
+|13-14| Start project work. See [project folder](projects/). |
 |14-15| Talk by **Mani Arumugam**: Gut microbiome signatures of Colorectal Cancer. (Data set for use in the Hackathon) |
 |15-16| Continue project|
 
