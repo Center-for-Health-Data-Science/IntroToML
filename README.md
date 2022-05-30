@@ -67,4 +67,9 @@ Responsible: Ruth Loos <ruth.loos@sund.ku.dk> & Cameron MacPherson <cameron.macp
 
 Talks: Example of machine learning applications in the biomedical field & intro to hackathon
 
+Please visit the following links for details on the three datasets for next week's course, [part-B](https://phdcourses.ku.dk/DetailKursus.aspx?id=109398&sitepath=SUND):
+- [P001. Predicting cell type using chromatin accessibility](https://www.kaggle.com/datasets/cameronmacpherson/ml-course-ku-3927220000-p001)
+- [P002. Metabolomic profiling of a wellness cohort](https://www.kaggle.com/datasets/cameronmacpherson/ml-course-ku-3927220000-p002)
+- [P003. Gut microbiome signatures of Colorectal Cancer](https://www.kaggle.com/datasets/cameronmacpherson/ml-course-ku-3927220000-p003)
+
 See separate program
