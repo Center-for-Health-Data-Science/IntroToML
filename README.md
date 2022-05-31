@@ -72,6 +72,5 @@ Please visit the following links for details on the three datasets for next week
 - [P002. Metabolomic profiling of a wellness cohort](https://www.kaggle.com/datasets/cameronmacpherson/ml-course-ku-3927220000-p002)
 - [P003. Gut microbiome signatures of Colorectal Cancer](https://www.kaggle.com/datasets/cameronmacpherson/ml-course-ku-3927220000-p003)
 
-See separate program
 For specific questions about the Chromatin dataset (P0001), please send your questions to:
 christian.gronbaek@sund.ku.dk
