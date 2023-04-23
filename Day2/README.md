@@ -1,41 +1,24 @@
 # Day 2
 
-## 09-10 
+## 09-10 Supervised Learning
 
-## 10-11 Pytorch Intro
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/pytorch_intro.ipynb)
+## 10-11 Random Forests, boosting etc.
 
-The notebook is in support of a presentation, not the replacement (so I do not write out everything)
+## 11-12 Exercise
 
-- Torch seen as numpy: `Ndarray` -> `Tensor`
-	- Why: Tensor itself has backprop information
-- Key Concepts and associated Classes: 
-    - brief recap of python concepts needed: `tuple`, `[ ]` implementation, `len`, `Callable`
-    - `DataSet` -> `__getitem__`, `__len__`
-    - `DataLoader` -> Loop over `Dataset` in certain ways
-    - Model formulation -> `Module` as a `Callable`
-    - Optimizers -> `SGD`
-    - loss functions
+## 13-14 Introduction to Neural Networks
 
-- plan:
-    * Start by makig a Dataset and one DataLoader. 
-    * hint on `DataLoader`s for validaiton + training. 
-    * Define a simple linear regression
-    * Do one step with `Dataloder` + model and see what comes out
-    * Do it in a loop
-    * Define a feed-forward network as an exercise
+## 14-17 Introduction to PyTorch
 
-- options: How to formulate a Logistic Regression?
+Lecture notebook:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/intro_to_pytorch.ipynb)
 
 
-### Further material
-The Colab I found before: Primer on NNs, (or this one?), cheat-cheets (and as a notebook)
+Exercises on Tensors:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/intro_to_pytorch_tensors_exercise.ipynb)
 
-- Textbook: [Deep Learning with PyTorch](https://github.com/deep-learning-with-pytorch/dlwpt-code)
 
-- [pytorch.org Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html), or examples from some blog (lost source) in [tensor_cheatsheet.ipynb](tensor_cheatsheet.ipynb)
-
-- notebook on [classes](https://github.com/Center-for-Health-Data-Science/PythonTsunami/tree/fall2021/Classes)
-
-- a [primer tutorial](https://github.com/sweetpand/PyTorch_fun/blob/master/pytorch_primer.ipynb) for PyTorch
-- simple [toy example](https://github.com/deep-learning-with-pytorch/dlwpt-code/blob/master/p1ch6/1_neural_networks.ipynb) for a Linear Regression from Deep Learning with Pytorch book
+A tip to stay sane: Remember you don't need to memorize code. Get help from
+- [pytorch.org Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
+- Stack Overflow
+- chatGPT or GitHub Copilot
