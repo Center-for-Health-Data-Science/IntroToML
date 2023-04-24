@@ -6,7 +6,7 @@
 
 ## 11-12 Exercise
 
-## 13-14 Introduction to Neural Networks
+## 13-14 Lecture: Introduction to neural networks. [NNintro1.pdf](NNintro1.pdf). Notebook for [gradient descent ](CoronaData.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/CoronaData.ipynb)
 
 ## 14-17 Introduction to PyTorch
 
