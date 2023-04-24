@@ -48,7 +48,7 @@ Main Teacher: Anders
 |10-11| Exercise with gene expression data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/day2_2_TissueClassification.ipynb)|
 |11-12| Lecture: Convolutional models. Performance evaluation. [Day2/NNintro3.pdf](Day2/NNintro3.pdf)|
 |12-13| Lunch break |
-|13-14| Lecture: To be announced |
+|13-14| Seminar: Ole Winther |
 |14-15| Exercise on prediction of TSS in DNA sequences [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/TSSprediction.ipynb) |
 |15-17| Start project work. See [project folder](projects/). |
 
@@ -58,7 +58,7 @@ Main Teacher: Anders
 |---|---|
 |9-12| Continue project work |
 |12-13| Lunch break |
-|13-15| Seminar: To be announced |
+|13-15| Seminar: Katerina Nastou |
 |15-17| Continue project work |
 
 ### Friday, Apr 28
