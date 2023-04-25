@@ -27,7 +27,7 @@ Title: GBT
 ## 14-15 Exercise on prediction of TSS in DNA sequences
 Teacher: Valentina Sora
 
-Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/TSSprediction.ipynb)
+Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TSSprediction.ipynb)
 
 ## 15-17 Start project work.
 
