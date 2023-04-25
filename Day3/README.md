@@ -10,10 +10,15 @@ Teacher: Inigo Pada-Luengo
 
 Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TissueClassification.ipynb)
 
-## 11-12 Lecture: Convolutional models. Performance evaluation.
+## 11-11:30 Lecture: Performance evaluation. Convolutional models.
 Teacher: Anders
 
 Slides: [NNintro3.pdf](NNintro3.pdf)
+
+## 11:30-12 A short introduction to generative models and transformers
+Teacher: Anders
+
+Slides: [OtherTypesNN.pdf](OtherTypesNN.pdf)
 
 ## 13-14 Seminar: Ole Winther
 
