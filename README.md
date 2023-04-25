@@ -36,8 +36,8 @@ Main teachers: Shyam (morning) and Anders Krogh <anders.krogh@sund.ku.dk> (after
 |10-11| Random forest, boosting, etc
 |11-12| Exercises
 |12-13| Lunch break |
-|13-14| Lecture: Introduction to neural networks. [Day2/NNintro1.pdf](Day2/NNintro1.pdf). Notebook for [gradient descent ](Day2/CoronaData.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/CoronaData.ipynb) |
-|14-17| Introduction to Pytorch.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/intro_to_pytorch.ipynb) with exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/intro_to_pytorch_tensors_exercise.ipynb)|
+|13-14| Lecture: Introduction to neural networks.  |
+|14-17| Introduction to Pytorch. |
 
 ### Wednesday, Apr 26
 Main Teacher: Anders
