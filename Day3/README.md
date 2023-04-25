@@ -1,13 +1,33 @@
-# Day 3: Generative Neural Networks
+# Day 3
 
-## Exercises
+## 9-10 Lecture: Training neural networks.
+Teacher: Anders
 
-[Zoom meeting](https://ucph-ku.zoom.us/j/62450142097?pwd=bllFcVJ4bmVTNEdIZjRyalJjcDFNdz09).
+Slides: [NNintro2.pdf](NNintro2.pdf)
 
-### scVAE
+## 10-11 Exercise with gene expression data
+Teacher: Inigo Prada-Luengo
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day3/scVAE.ipynb)
+Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TissueClassification.ipynb)
 
-### Conditional scVAE
+## 11-11:30 Lecture: Performance evaluation. Convolutional models.
+Teacher: Anders
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day3/scVAE-conditional.ipynb)
+Slides: [NNintro3.pdf](NNintro3.pdf)
+
+## 11:30-12 A short introduction to generative models and transformers
+Teacher: Anders
+
+Slides: [OtherTypesNN.pdf](OtherTypesNN.pdf)
+
+## 13-14 Seminar: Ole Winther
+
+Title: GBT
+
+## 14-15 Exercise on prediction of TSS in DNA sequences
+Teacher: Valentina Sora
+
+Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TSSprediction.ipynb)
+
+## 15-17 Start project work.
+

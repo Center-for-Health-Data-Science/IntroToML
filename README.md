@@ -28,7 +28,7 @@ Main teacher: Shyam Gopalakrishnan <fck245@ku.dk>
 ### Tuesday Apr 25
 Main teachers: Shyam (morning) and Anders Krogh <anders.krogh@sund.ku.dk> (afternoon)
 
-**Neural Networks**
+Details in [Day2](Day2/)
 
 | Time |  |
 |---|---|
@@ -36,21 +36,23 @@ Main teachers: Shyam (morning) and Anders Krogh <anders.krogh@sund.ku.dk> (after
 |10-11| Random forest, boosting, etc
 |11-12| Exercises
 |12-13| Lunch break |
-|13-14| Lecture: Introduction to neural networks. [Day2/NNintro1.pdf](Day2/NNintro1.pdf). Notebook for [gradient descent ](Day2/CoronaData.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/CoronaData.ipynb) |
-|14-17| Introduction to Pytorch.  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/intro_to_pytorch.ipynb) with exercises [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/intro_to_pytorch_tensors_exercise.ipynb)|
+|13-14| Lecture: Introduction to neural networks.  |
+|14-17| Introduction to Pytorch. |
 
 ### Wednesday, Apr 26
 Main Teacher: Anders
 
+Details in [Day3](Day3/)
+
 | Time |  |
 |---|---|
-| 9-10| Lecture: Training neural networks. [Day2/NNintro2.pdf](Day2/NNintro2.pdf) |
-|10-11| Exercise with gene expression data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TissueClassification.ipynb)|
-|11-12| Lecture: Convolutional models. Performance evaluation. [Day2/NNintro3.pdf](Day2/NNintro3.pdf)|
+| 9-10| Lecture: Training neural networks. |
+|10-11| Exercise with gene expression data |
+|11-12| Lecture: Convolutional models. Performance evaluation. |
 |12-13| Lunch break |
 |13-14| Seminar: Ole Winther |
-|14-15| Exercise on prediction of TSS in DNA sequences [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/TSSprediction.ipynb) |
-|15-17| Start project work. See [project folder](projects/). |
+|14-15| Exercise on prediction of TSS in DNA sequences |
+|15-17| Start project work. |
 
 ### Thursday, Apr 27
 
