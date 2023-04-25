@@ -22,6 +22,8 @@ Lecture notebook:
 
 Exercises on Tensors:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/intro_to_pytorch_tensors_exercise.ipynb)
+Solutions:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/Day2/pytorch_tensors_exercise_solutions.ipynb)
 
 
 A tip to stay sane: Remember you don't need to memorize code. Get help from
