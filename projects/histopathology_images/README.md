@@ -5,11 +5,11 @@
 The PatchCamelyon (PCam) dataset is a benchmark set for medical image classification. The original dataset consists of 327.680 color images (96 x 96px) derived from histopathological scans of lymph node sections. Images are labelled with [0,1] referring to the presence of metastatic tissue. Below you can see examples from PCam.
 
 
-<img src=".pcam.jpeg" width="400">
+<img src="https://github.com/Center-for-Health-Data-Science/IntroToML/blob/main/projects/histopathology_images/pcam.jpeg" width="400">
 
 This figure and the data are taken from  [this repo](https://github.com/basveeling/pcam) and shows example images from PCam, with green boxes showing tumor tissue which gives a label of 1.
 
-We provide a subset of this data, comprising 5% of the original data in a train-validation-test split. The training data now consists of 13108 images and both validation and test set contain 1639 images. Don't expect the model performances to be great with this small dataset, but it is a nice way to get started. You could always go to the full dataset and try out your model on that. Because image data can be challenging to get started with, we also provide the Dataset class with how to load the data in the starter notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/projects/pcam_start.ipynb).
+We provide a subset of this data, comprising 5% of the original data in a train-validation-test split. The training data now consists of 13108 images and both validation and test set contain 1639 images. Don't expect the model performances to be great with this small dataset, but it is a nice way to get started. You could always go to the full dataset and try out your model on that. Because image data can be challenging to get started with, we also provide the Dataset class with how to load the data in the starter notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/projects/histopathology_images/pcam_start.ipynb).
 
 ## The task
 
@@ -38,4 +38,4 @@ So far your models have been trained and tested on this benchmark dataset in whi
 
 There are some really interesting things we can do that have been made pretty easy. Hyperparameter optimization for example can now basically be automated. If you are interested in this, you might want to check out optimization frameworks such as [optuna](https://optuna.readthedocs.io/en/stable/index.html).
 
-Another thing that is really interesting and extremely valuable is a field called explainable AI, which is especially important in applications to medical decision making. We will most likely only trust algorithms to help in our decision making if we understand how they make their decisions. If you are interested in this, I have some code implementing [RISE](https://arxiv.org/abs/1806.07421) for pcam if you want to see what information your model uses in its predictions [here](pcam_rise_explainable_ai.ipynb).
+Another thing that is really interesting and extremely valuable is a field called explainable AI, which is especially important in applications to medical decision making. We will most likely only trust algorithms to help in our decision making if we understand how they make their decisions. If you are interested in this, I have some code implementing [RISE](https://arxiv.org/abs/1806.07421) for pcam if you want to see what information your model uses in its predictions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/HEAD/projects/histopathology_images/pcam_rise_explainable_ai.ipynb).
