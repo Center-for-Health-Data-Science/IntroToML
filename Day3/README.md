@@ -5,6 +5,8 @@ Teacher: Anders
 
 Slides: [NNintro2.pdf](NNintro2.pdf)
 
+MNIST notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/MNISTexample.ipynb)
+
 ## 10-11 Exercise with gene expression data
 Teacher: Inigo Prada-Luengo
 
