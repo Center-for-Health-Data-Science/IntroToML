@@ -11,6 +11,7 @@ MNIST notebook: [![Open In Colab](https://colab.research.google.com/assets/colab
 Teacher: Inigo Prada-Luengo
 
 Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TissueClassification.ipynb)
+Notebook with solutions: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TissueClassification_with_solution.ipynb)
 
 ## 11-11:30 Lecture: Performance evaluation. Convolutional models.
 Teacher: Anders
