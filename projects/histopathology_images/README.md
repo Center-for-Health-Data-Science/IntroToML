@@ -5,7 +5,7 @@
 The PatchCamelyon (PCam) dataset is a benchmark set for medical image classification. The original dataset consists of 327.680 color images (96 x 96px) derived from histopathological scans of lymph node sections. Images are labelled with [0,1] referring to the presence of metastatic tissue. Below you can see examples from PCam.
 
 
-<img src="https://github.com/Center-for-Health-Data-Science/IntroToML/blob/main/projects/histopathology_images/pcam.jpeg" width="400">
+<img src="https://github.com/Center-for-Health-Data-Science/IntroToML/blob/main/projects/histopathology_images/pcam.jpeg" width="800">
 
 This figure and the data are taken from  [this repo](https://github.com/basveeling/pcam) and shows example images from PCam, with green boxes showing tumor tissue which gives a label of 1.
 
