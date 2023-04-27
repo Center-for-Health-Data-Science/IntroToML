@@ -50,7 +50,7 @@ Details in [Day3](Day3/)
 |10-11| Exercise with gene expression data |
 |11-12| Lecture: Convolutional models. Performance evaluation. |
 |12-13| Lunch break |
-|13-14| Seminar: Ole Winther |
+|13-14| Seminar: **Ole Winther** |
 |14-15| Exercise on prediction of TSS in DNA sequences |
 |15-17| Start project work. |
 
@@ -60,7 +60,7 @@ Details in [Day3](Day3/)
 |---|---|
 |9-12| Continue project work |
 |12-13| Lunch break |
-|13-15| Seminar: Katerina Nastou |
+|13-15| Seminar by **Katerina Nastou**:  Extracting protein-protein interactions from the literature with deep learning-based text mining. [slides](KaterinaSlides.pdf)|
 |15-17| Continue project work |
 
 ### Friday, Apr 28
