@@ -60,8 +60,8 @@ Details in [Day3](Day3/)
 |---|---|
 |9-12| Continue project work |
 |12-13| Lunch break |
-|13-15| Seminar by **Katerina Nastou**:  Extracting protein-protein interactions from the literature with deep learning-based text mining. [slides](KaterinaSlides.pdf)|
-|15-17| Continue project work |
+|13-14| Seminar by **Katerina Nastou**:  Extracting protein-protein interactions from the literature with deep learning-based text mining. [slides](KaterinaSlides.pdf)|
+|14-17| Continue project work |
 
 ### Friday, Apr 28
 
