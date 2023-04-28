@@ -1,6 +1,10 @@
 # Introduction to machine learning in biomedical research - Part A
 **Apr 24-28, 2023**
 
+Lars Juhl Jensen video channel:
+
+https://www.youtube.com/@larsjuhljensen
+
 Evaluation of the course:
 
 https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftUMFJaVDNHNEg1VUJSSjZXR0k2M1o4MFdYWiQlQCN0PWcu
