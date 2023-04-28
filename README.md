@@ -1,6 +1,10 @@
 # Introduction to machine learning in biomedical research - Part A
 **Apr 24-28, 2023**
 
+Evaluation of the course:
+
+https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftUQllPWlhFWk1MNFlIV1lRSTJHMDVCTVdONyQlQCN0PWcu&Token=ebde32c29a304c968c9aa2bc8901f637
+
 Official course description:
 https://phdcourses.ku.dk/detailkursus.aspx?id=110523&sitepath=SUND
 
