@@ -3,7 +3,7 @@
 
 Evaluation of the course:
 
-https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftUQllPWlhFWk1MNFlIV1lRSTJHMDVCTVdONyQlQCN0PWcu&Token=ebde32c29a304c968c9aa2bc8901f637
+https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftUMFJaVDNHNEg1VUJSSjZXR0k2M1o4MFdYWiQlQCN0PWcu
 
 Official course description:
 https://phdcourses.ku.dk/detailkursus.aspx?id=110523&sitepath=SUND
