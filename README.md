@@ -1,24 +1,20 @@
 # Introduction to machine learning in biomedical research - Part A
-**Apr 24-28, 2023**
+**Apr 22 and 24-29, 2024**
 
 Lars Juhl Jensen video channel:
 
 https://www.youtube.com/@larsjuhljensen
 
-Evaluation of the course:
-
-https://forms.office.com/Pages/ResponsePage.aspx?id=kX-So6HNlkaviYyfHO_6kaKwKoywcVlMq5OaNsGbwftUMFJaVDNHNEg1VUJSSjZXR0k2M1o4MFdYWiQlQCN0PWcu
-
 Official course description:
-https://phdcourses.ku.dk/detailkursus.aspx?id=110523&sitepath=SUND
+https://phdcourses.ku.dk/DetailKursus.aspx?id=111404&sitepath=SUND
 
 ### Location
 PANUM, Blegdamsvej 3B, 2200 Copenhagen, 
-**Room 13.1.83** (first floor in Maersk Tower)
+**Room 31.01.4A (22-26/4) and 29.01.32 (29/4) ** (both rooms are in the basement of Panum in the end towards Nørre Alle)
 
-## Course plan
+## PRELIMINARY Course plan
 
-### Monday Apr 24
+### Monday Apr 22
 Main teacher: Shyam Gopalakrishnan <fck245@ku.dk>
 
 **Introduction to ML**
@@ -33,7 +29,7 @@ Main teacher: Shyam Gopalakrishnan <fck245@ku.dk>
 |14-15| Classification and regression. Logistic regression |
 |15-17| exercises |
 
-### Tuesday Apr 25
+### Wednesdayday Apr 24
 Main teachers: Shyam (morning) and Anders Krogh <anders.krogh@sund.ku.dk> (afternoon)
 
 Details in [Day2](Day2/)
@@ -47,7 +43,7 @@ Details in [Day2](Day2/)
 |13-14| Lecture: Introduction to neural networks.  |
 |14-17| Introduction to Pytorch. |
 
-### Wednesday, Apr 26
+### Thursday, Apr 25
 Main Teacher: Anders
 
 Details in [Day3](Day3/)
@@ -58,20 +54,20 @@ Details in [Day3](Day3/)
 |10-11| Exercise with gene expression data |
 |11-12| Lecture: Convolutional models. Performance evaluation. |
 |12-13| Lunch break |
-|13-14| Seminar: **Ole Winther** |
+|13-14| TBA |
 |14-15| Exercise on prediction of TSS in DNA sequences |
 |15-17| Start project work. |
 
-### Thursday, Apr 27
+### Friday, Apr 26
 
 | Time |  |
 |---|---|
 |9-12| Continue project work |
 |12-13| Lunch break |
-|13-14| Seminar by **Katerina Nastou**:  Extracting protein-protein interactions from the literature with deep learning-based text mining. [slides](KaterinaSlides.pdf)|
+|13-14| TBA |
 |14-17| Continue project work |
 
-### Friday, Apr 28
+### Monday, Apr 29
 
 | Time |  |
 |---|---|
