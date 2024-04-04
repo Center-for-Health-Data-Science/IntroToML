@@ -1,16 +1,12 @@
 # Introduction to machine learning in biomedical research - Part A
 **Apr 22 and 24-29, 2024**
 
-Lars Juhl Jensen video channel:
-
-https://www.youtube.com/@larsjuhljensen
-
-Official course description:
-https://phdcourses.ku.dk/DetailKursus.aspx?id=111404&sitepath=SUND
-
 ### Location
 PANUM, Blegdamsvej 3B, 2200 Copenhagen, 
 **Room 31.01.4A (22-26/4) and 29.01.32 (29/4) ** (both rooms are in the basement of Panum in the end towards Nørre Alle)
+
+Official course description:
+https://phdcourses.ku.dk/DetailKursus.aspx?id=111404&sitepath=SUND
 
 ## PRELIMINARY Course plan
 
