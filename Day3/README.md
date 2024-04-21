@@ -21,7 +21,7 @@ Slides: [NNintro3.pdf](NNintro3.pdf)
 ## 11:30-12 A short introduction to generative models
 Teacher: Anders
 
-Slides: [OtherTypesNN.pdf](OtherTypesNN.pdf)
+Slides: [GenerativeModels.pdf](GenerativeModels.pdf)
 
 ## 13-14 Tentative title: The AI rocking our world: Transformers, large language models and diffusion models
 by Vicoria Schuster
