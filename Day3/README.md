@@ -18,14 +18,13 @@ Teacher: Anders
 
 Slides: [NNintro3.pdf](NNintro3.pdf)
 
-## 11:30-12 A short introduction to generative models and transformers
+## 11:30-12 A short introduction to generative models
 Teacher: Anders
 
 Slides: [OtherTypesNN.pdf](OtherTypesNN.pdf)
 
-## 13-14 Seminar: Ole Winther
-
-Title: GBT
+## 13-14 Tentative title: The AI rocking our world: Transformers, large language models and diffusion models
+by Vicoria Schuster
 
 ## 14-15 Exercise on prediction of TSS in DNA sequences
 Teacher: Valentina Sora
