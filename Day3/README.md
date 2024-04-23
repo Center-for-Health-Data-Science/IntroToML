@@ -24,7 +24,7 @@ Teacher: Anders
 Slides: [GenerativeModels.pdf](GenerativeModels.pdf)
 
 ## 13-14 Tentative title: The AI rocking our world: Transformers, large language models and diffusion models
-by Vicoria Schuster
+by Viktoria Schuster
 
 ## 14-15 Exercise on prediction of TSS in DNA sequences
 Teacher: Valentina Sora
