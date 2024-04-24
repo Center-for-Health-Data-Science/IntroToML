@@ -60,7 +60,7 @@ Details in [Day3](Day3/)
 |---|---|
 |9-12| Continue project work |
 |12-13| Lunch break |
-|13-14| TBA |
+|13-14| Lecture: A generative model for transcriptomics |
 |14-17| Continue project work |
 
 ### Monday, Apr 29
