@@ -50,8 +50,8 @@ Details in [Day3](Day3/)
 |10-11| Exercise with gene expression data |
 |11-12| Lecture: Convolutional models. Performance evaluation. |
 |12-13| Lunch break |
-|13-14| TBA |
-|14-15| Exercise on prediction of TSS in DNA sequences |
+|13-14| Exercise on prediction of TSS in DNA sequences |
+|14-15| Lecture: Generative AI in Life(&)Science |
 |15-17| Start project work. |
 
 ### Friday, Apr 26
