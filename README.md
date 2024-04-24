@@ -25,7 +25,7 @@ Main teacher: Shyam Gopalakrishnan <fck245@ku.dk>
 |14-15| Classification and regression. Logistic regression |
 |15-17| exercises |
 
-### Wednesdayday Apr 24
+### Wednesday Apr 24
 Main teachers: Shyam (morning) and Anders Krogh <anders.krogh@sund.ku.dk> (afternoon)
 
 Details in [Day2](Day2/)
@@ -72,5 +72,4 @@ Details in [Day3](Day3/)
 |12-13| Lunch break |
 |13-15| Group presentation of projects |
 |15-16| Final words and evaluation of course |
-
 
