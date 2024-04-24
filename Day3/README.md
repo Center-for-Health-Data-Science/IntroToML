@@ -28,7 +28,7 @@ Teacher: Valentina Sora
 
 Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TSSprediction.ipynb)
 
-## 14-15 Tentative title: The AI rocking our world: Transformers, large language models and diffusion models
+## 14-15 Lecture: Generative AI in Life(&)Science
 by Viktoria Schuster
 
 ## 15-17 Start project work.
