@@ -23,13 +23,13 @@ Teacher: Anders
 
 Slides: [GenerativeModels.pdf](GenerativeModels.pdf)
 
-## 13-14 Tentative title: The AI rocking our world: Transformers, large language models and diffusion models
-by Viktoria Schuster
-
-## 14-15 Exercise on prediction of TSS in DNA sequences
+## 13-14 Exercise on prediction of TSS in DNA sequences
 Teacher: Valentina Sora
 
 Notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day3/TSSprediction.ipynb)
+
+## 14-15 Tentative title: The AI rocking our world: Transformers, large language models and diffusion models
+by Viktoria Schuster
 
 ## 15-17 Start project work.
 
