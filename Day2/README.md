@@ -16,7 +16,7 @@ Notebook for [gradient descent ](CoronaData.ipynb) [![Open In Colab](https://col
 ## 14-16 Introduction to PyTorch
 Teacher: Andreas Bjerregaard
 
-Notebook for [PyTorch intro](Introduction_to_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/Introduction_to_PyTorch.ipynb)
+Notebook for [PyTorch intro](Introduction_to_PyTorch.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Center-for-Health-Data-Science/IntroToML/blob/main/Day2/Introduction_to_PyTorch.ipynb) and last year's [tensor exercises](https://github.com/Center-for-Health-Data-Science/IntroToML/tree/spring2023/Day2). 
 
 A tip to stay sane: Remember you don't need to memorize code. Get help from
 - [PyTorch.org Cheat Sheet](https://pytorch.org/tutorials/beginner/ptcheat.html)
