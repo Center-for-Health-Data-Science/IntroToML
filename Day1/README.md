@@ -8,6 +8,6 @@ Here we will learn what ML methods consist of - how they can be used, and we wil
 We will learn one particular method for unsupervised learning - PCA, and apply it to a gene expression dataset. [PCA.ipynb](PCA.ipynb)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1gC99sg3WnZ9mwrOaAkERnQ7g5m9MnXNR?usp=sharing)
 
 ## Supervised learning - logistic regression
-We will learn about supervised learning with the help of logistic regression on some voting data, and if time permits, we will explore together some other methods and other datasets. [Classification.ipynb](Classification.ipynb)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kADFmZEvRsf8DhfafCOlKkGxjzZYUuMq?usp=sharing)
+We will learn about supervised learning with the help of logistic regression on some voting data, and if time permits, we will explore together some other methods and other datasets. [Classification.ipynb](Classification.ipynb)[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xMP99TCGpBOgT7KbLSaD58wfRs_dwHUU?usp=sharing)
  
 
